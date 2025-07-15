@@ -2,7 +2,7 @@
 title: Présentation du Wiki
 description: 
 published: true
-date: 2025-07-14T18:25:42.380Z
+date: 2025-07-15T16:40:35.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-14T18:25:40.644Z
@@ -37,6 +37,4 @@ Que vous soyez pilote virtuel débutant ou vétéran chevronné, vous trouverez 
 Merci à chacun d’entre vous pour votre participation !  
 Enrichissons ensemble ce Wiki pour qu’il devienne la référence francophone incontournable de DCS.  
 
-Bon vol et bonnes contributions ! ✈️  
-
-*Page mise à jour le 14 juillet 2025*  
+Bon vol et bonnes contributions ! ✈️ 
