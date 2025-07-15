@@ -2,7 +2,7 @@
 title: Radio & Communications (SRS, Discord)
 description: 
 published: true
-date: 2025-07-15T17:07:41.961Z
+date: 2025-07-15T17:25:53.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-15T02:24:46.172Z
@@ -35,29 +35,6 @@ Les communications radio sont une **compétence fondamentale** pour évoluer eff
 ---
 
 ## 📘 Procédures de Communication
-
-### Guide Communications version Couteau — par "Berth"
-
-Un document de référence qui expose clairement :
-
-* Le rôle des contrôleurs (AWACS & ATC)
-* Les **procédures de contact** et de **report de position**
-* L’organisation d’un trafic contrôlé sur DCS
-
-🔗 [Consulter le guide sur Google Docs](https://docs.google.com/document/d/1o9j1pYkGIiomB8G3HS0JeFguLVp4KVtlUvA7AHHH84w/edit?usp=sharing)
-
-### Complément Procédure Radio - par "Stako (EFAS)"
-
-Un PDF supplémentaire dédié à la **relation radio entre pilotes et AWACS**, avec des cas concrets et du phraséologie.
-
-📄 Fichier : [Procédures Radio (PDF)](/proc_radio.pdf)
-
-### Guide ATC version Couteau - par "Sim"
-
-* Fournit les **procédures ATC en conditions réalistes**.
-* Contient des diagrammes de circuits d’attente, instructions pour intégration dans le trafic, etc.
-
-📄 Fichier : [Guide ATC Couteau (PDF)](/guide_atc_couteau_vf.pdf)
 
 ### Compléments utiles
 
